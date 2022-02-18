@@ -217,6 +217,7 @@ namespace Player
                     music_++;
                     paths.Add(dialog.FileName);
                     musics.Items.Add(dialog.SafeFileName);
+
                 }
             }
         }
